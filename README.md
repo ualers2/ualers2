@@ -11,7 +11,7 @@ Desenvolvedor Full-Stack especializado em Python e React, com foco em soluções
 **DevOps:** Docker • Nginx • Git  
 **Databases:** Firebase Realtime Database  
 
-## 🎯 Projeto Destaque: Media Cuts Studio
+## 🎯 Projeto Destaque: [Media Cuts Studio](https://mediacutsstudio.com/)
 Aplicação de IA que automatiza a criação de conteúdo viral a partir de vídeos longos.
 
 **Tecnologias:** Python, React, OpenAI, YOLO v11, FFmpeg, Docker  
@@ -19,5 +19,5 @@ Aplicação de IA que automatiza a criação de conteúdo viral a partir de víd
 
 
 ## 📫 Contato
-- LinkedIn:[ [seu-linkedin]](https://www.linkedin.com/in/ualerson-rodrigues-de-freitas-749422382)
+- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/ualerson-rodrigues-de-freitas-749422382)
 - Email: mediacutsstudio@gmail.com
