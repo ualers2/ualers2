@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou UALERSON
 
-<!--
-**ualers2/ualers2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
+Desenvolvedor Full-Stack especializado em Python e React, com foco em soluções de IA e automação. Apaixonado por criar aplicações que resolvem problemas reais.
 
-Here are some ideas to get you started:
+## 🛠️ Stack Tecnológica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Python • Flask • FastAPI • Celery • Redis  
+**Frontend:** React.js • TypeScript • Vite • Electron  
+**IA/ML:** OpenAI API • YOLO v11 • Computer Vision  
+**DevOps:** Docker • Nginx • Git  
+**Databases:** Firebase Realtime Database  
+
+## 🎯 Projeto Destaque: Media Cuts Studio
+Aplicação de IA que automatiza a criação de conteúdo viral a partir de vídeos longos.
+
+**Tecnologias:** Python, React, OpenAI, YOLO v11, FFmpeg, Docker  
+**Features:** Transcrição automática, detecção de momentos virais, auto-reframe, agendamento social
+
+
+## 📫 Contato
+- LinkedIn:[ [seu-linkedin]](https://www.linkedin.com/in/ualerson-rodrigues-de-freitas-749422382)
+- Email: mediacutsstudio@gmail.com
