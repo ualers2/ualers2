@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou UALERSON
 
 ## 🚀 Sobre Mim
-Desenvolvedor Full-Stack especializado em Python e React, com foco em soluções de IA e automação. Apaixonado por criar aplicações que resolvem problemas reais.
+Desenvolvedor Full-Stack especializado em Python e React, com foco em soluções de IA e automação. 
 
 ## 🛠️ Stack Tecnológica
 
