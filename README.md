@@ -19,5 +19,5 @@ Aplicação de IA que automatiza a criação de conteúdo viral a partir de víd
 
 
 ## 📫 Contato
-- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/ualerson-rodrigues-de-freitas-749422382)
+- [LinkedIn] (https://www.linkedin.com/in/ualerson-rodrigues-de-freitas-749422382)
 - Email: mediacutsstudio@gmail.com
