@@ -11,7 +11,7 @@ Desenvolvedor Full-Stack especializado em Python e React, com foco em soluções
 **DevOps:** Docker • Nginx • Git  
 **Databases:** Firebase Realtime Database  
 
-## 🎯 Projeto Destaque: [Media Cuts Studio](https://mediacutsstudio.com/)
+## 🎯 Projeto Destaque: [Media Cuts Studio](https://github.com/ualers2/Media-Cuts-Studio)
 Aplicação de IA que automatiza a criação de conteúdo viral a partir de vídeos longos.
 
 **Tecnologias:** Python, React, OpenAI, YOLO v11, FFmpeg, Docker  
